@@ -1,11 +1,23 @@
 Título (30)
 ===========
 
+Guía de Laujar de Andarax
+
 Descripción breve (80)
 ======================
 
+Callejero y Guía Turística con los elementos de interés de Laujar de Andarax
+
 Descripción completa (4000)
 ===========================
+
+Nuestro municipio cuenta ya con una APP de información turística, la APP “Guia de Laujar de Andarax”. En principio, está disponible para dispositivos Android y puede descargarse de manera gratuita.
+
+Esta APP posee, entre otros, un callejero de Laujar de Andarax, así como un menú de acceso a sus puntos de interés turístico, su cultura y fiestas, dónde comer y tapear, una relación de sus cafeterías y pubs o un listín telefónico.  Todo un sinfín de datos que facilitarán las visitas a nuestro municipio. Además, dicha APP estará en constante crecimiento para su mejora y se irá actualizando en función de las necesidades.
+
+Este proyecto se ha desarrollado en colaboración con el Instituto de Estadística y Cartografía de Andalucía, con el objetivo es tener un marco completo en el que se incluyan todas las calles y números de nuestro municipio, de cara a la mejora de la prestación de los distintos servicios que la administración pública ofrece a la ciudadanía, como por ejemplo, el garantizar que las ambulancias y los bomberos lleguen en el menor tiempo posible.
+
+¡No lo dejes para más tarde y disfrútala!
 
 Etiquetas	
 ===========
